@@ -1,0 +1,21 @@
+#bar_chart{
+    height: 300px;
+    width: 550px;
+    background-color: #FFFFFF;
+    float: left;
+    margin-left: 20px;
+}
+
+#job_map{
+    height: 680px;
+    width: 800px;
+    float: left;
+}
+
+#job_detail{
+    height: 300px;
+    width: 550px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 40px;
+}
